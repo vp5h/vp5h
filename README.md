@@ -2,7 +2,7 @@
 
 ### About Me 
 
-👨‍💻&nbsp; Learning JavaScript & React EcoSystem<br/>
+👨‍💻&nbsp; Learning JavaScript & Go lately <br/>
 ⚡&nbsp; Fun fact: I prefer Coffee while coding & reading books.
 
 ### Connect with me
