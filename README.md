@@ -3,7 +3,7 @@
 ### About Me 
 
 👨‍💻&nbsp; Learning JavaScript & Go lately <br/>
-⚡&nbsp; Fun fact: I prefer Coffee while coding & reading books.
+⚡&nbsp; Fun fact: I prefer Coffee.
 
 ### Connect with me
 
